@@ -1,4 +1,4 @@
-import minhaFoto from '../assets/minhafoto.jpeg'; 
+import minhaFoto from '../assets/minhaFoto.jpeg'; 
 
 export default function About() {
   return (

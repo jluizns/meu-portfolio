@@ -28,7 +28,7 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-      - name: Instalar dependências e build
+      - name: Instalar dependencias e build
         run: |
           npm ci
           npm run build
